@@ -1,5 +1,6 @@
 {
   "twitter_api_key": "sc36rGrawG8TlCap6D0moB7BH",
   "twitter_api_secret": "sKvz1idjisqbWxv1hhQNzpFyuzLPba7SCMf1vYmwoy9qTlGmpi",
-  "callback_url": "http://localhost:3000/auth/twitter/callback"
+  "callback_url": "https://rec-public.eqwall.com/auth/twitter/callback",
+  "logged_url": "https://rec-public.eqwall.com/auth/twitter/connected"
 }
